@@ -1,0 +1,14 @@
+<katalog>
+	<buku category="WEB">
+		<judul bahasa="en">Learning XML</judul>
+		<pengarang>Erik Tohir</pengarang>
+		<tahun>2003</tahun>
+		<harga>39.95</harga>
+	</buku>
+	<buku category="Programming">
+		<judul bahasa="id">Pemrograman PHP</judul>
+		<pengarang>Saeful jamil</pengarang>
+		<tahun>2005</tahun>
+		<harga>54000</harga>
+	</buku>
+</katalog>
